@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #d9d9d9;
+}
+
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.content {
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 5px gray;
+}
+
+img {
+    width: 150px;
+    height: 190px;
+    object-fit: cover;
+}
+
+h2 {
+    color: black;
+}
+
+p,
+li {
+    font-size: 14px;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
